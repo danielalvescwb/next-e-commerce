@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bcd191eb-4213-41e2-bb32-a65712165b8e",
+    "fullName": "Customer 1",
+    "email": "customer1@email.com",
+    "address": {
+      "street": "Street 1",
+      "number": "1"
+    }
+  },
+  {
+    "id": "46a6b991-a2dc-44f0-a7dc-4efbdb42f214",
+    "fullName": "Customer 2",
+    "email": "customer2@email.com",
+    "address": {
+      "street": "Street 2",
+      "number": "2"
+    }
+  }
+]
